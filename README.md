@@ -1,11 +1,11 @@
 # hub-new-repo
-Create GitHub repository from command line tool.
+Create a GitHub repository from command line tool.
 
 ## Settings
 Please add the content of the .gitconfig in this replsitory to yours by copy and paste.
-Also replace <username> and <token your-github-token> by yours.
+Also replace the <username> and the <token your-github-token> by yours.
   
-You can get GitHub token from here. 
+You can get a GitHub token from here. 
 https://github.com/settings/tokens
 
 ```
@@ -19,7 +19,7 @@ $ source ~.gitconfig
 ```
 
 ## Usage
-In the local directory that you want to upload to GitHub, run the follwoing command.
+Please run the follwoing command in the local directory where you want to upload to GitHub.
 
 ```
 $ git hub-new-public-repo
